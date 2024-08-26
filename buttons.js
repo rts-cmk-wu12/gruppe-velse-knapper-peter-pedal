@@ -11,7 +11,6 @@ const fonts = document.querySelector('#font')
 
 
 
-diddy.addEventListener('click', diddyfest)
 colortekst.addEventListener('click', change)
 backgroundChange.addEventListener('click', changebg)
 skrift.addEventListener('click', addlorem )
